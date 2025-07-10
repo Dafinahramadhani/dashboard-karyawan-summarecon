@@ -4,10 +4,7 @@
 # In[148]:
 
 
-pip install streamlit pandas openpyxl plotly
 
-
-# In[149]:
 
 
 import pandas as pd

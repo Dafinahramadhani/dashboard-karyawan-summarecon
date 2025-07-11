@@ -7,7 +7,7 @@
 
 
 
-import  as pd
+import pandas as pd
 
 # Membaca file Excel yang sudah diupload
 df = pd.read_excel("file tahunan.xlsx")
